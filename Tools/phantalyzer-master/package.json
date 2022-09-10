@@ -6,7 +6,7 @@
   "dependencies": {
     "q"          : "0.8.12",
     "string"     : "1.2.0",
-    "underscore" : "1.4.4",
+    "underscore" : "1.13.4",
     "csv"        : "0.3.3",
     "mustache"   : "0.7.2",
     "finite-csv" : "0.0.3",
