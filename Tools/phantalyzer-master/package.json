@@ -4,7 +4,7 @@
   "description": "A PhantomJS script for running Wappalyzer over many sites using a headless Webkit browser",
   "main": "simple.js",
   "dependencies": {
-    "q"          : "0.8.12",
+    "q"          : "0.9.7",
     "string"     : "1.2.0",
     "underscore" : "1.4.4",
     "csv"        : "0.3.3",
