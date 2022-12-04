@@ -11,7 +11,7 @@
     "mustache"   : "0.7.2",
     "finite-csv" : "0.0.3",
     "commander"  : "1.3.0",
-    "connect"    : "2.10.1"
+    "connect"    : "3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
